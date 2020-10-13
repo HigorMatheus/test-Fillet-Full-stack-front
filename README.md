@@ -5,5 +5,5 @@ https://github.com/HigorMatheus/back-end-test-Fillet
 
 ### inicie a arlicacao 
 ```sh
-    yarn
+    yarn start
 ```
